@@ -14,6 +14,8 @@ Obtain the linear programming model that allows to obtain the production plan wh
 1. ﻿﻿﻿What number of tonnes should be produced on second month?
 2. ﻿﻿﻿What number of tonnes should be in stock at the end of third month?
 ﻿﻿﻿3. What is the optimal sum of production and storage costs? What is the percent of storage costs?
+   
 ﻿﻿﻿4. How will the optimal sum of costs change if needed quantity of stock at the end of the four month is rising to 300 tonnes?
+   
 ﻿﻿﻿5. Let the needed quantity of stock at the end of the fourth month vary from 0 to 1000 tonnes (ch the step yourself). How would the optimal sum of costs vary? Illustrate with an appropriate graphics.
 6. ﻿﻿﻿Give the meaningful interpretation of the dual variable (choose the one you want).
